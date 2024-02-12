@@ -2,7 +2,7 @@ import React from "react";
 // import logo from './logo.svg';
 import "./App.css";
 
-import BlogPage from "./components/BlogPage";
+import BlogPage from "./components/BlogPage/BlogPage";
 
 function App() {
   return (
@@ -11,5 +11,4 @@ function App() {
     </>
   );
 }
-
 export default App;
